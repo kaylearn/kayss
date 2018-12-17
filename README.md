@@ -1,2 +1,2 @@
 # kayss
-kayss inc.  app base.
+kayss inc.  code base.
