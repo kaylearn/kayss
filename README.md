@@ -1,2 +1,1 @@
-# kayss
-kayss inc.  code base.
+# code_snippets
